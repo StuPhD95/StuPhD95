@@ -6,4 +6,4 @@ My PhD research specialised in stochastic modelling and non-local dynamical syst
 
 I'm passionate about financial markets and enjoy using mathematical modelling to understand market dynamics.
 
-I primarily used MATLAB and Mathematica during my PhD. I'm currently working on improving my Python skills as I transition into industry.
+I used MATLAB and Mathematica during my PhD. I'm currently working on improving my Python skills as I transition into industry.
