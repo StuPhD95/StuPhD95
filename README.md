@@ -4,4 +4,4 @@ I'm Stuart-James, an Applied Mathematician with a PhD from UNSW Sydney specialis
 
 I am passionate about financial markets and enjoy using mathematical modelling to understand risk, uncertainty and market behaviour.
 
-Much of my research was carried out using MATLAB and Mathematica. I am currently working on my Python skills as I transition into industry.
+Much of the research conducted during my PhD was done using MATLAB and Mathematica. I am currently working on improving my Python skills as I hope to transition into industry.
